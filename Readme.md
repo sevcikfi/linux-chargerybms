@@ -25,9 +25,9 @@ Use this project at your own risk
 
 ## TODO fixing
 
-- more smart looping/updating (perhaps readind data only every 10s)
-- parsing each type of packet into readible format
-- returning any/all data into machine readible format (JSON/csv?)
+- more smart looping/updating (perhaps reading data only every 10s)
+- parsing each type of packet into readable format
+- returning any/all data into machine readable format (JSON/csv?)
 - DB connector for persistent storage of date
 - basic local DB for displaying such data on localhost/network
 - Unit tests?

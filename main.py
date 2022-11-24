@@ -48,7 +48,7 @@ MIN_CELL_IMPEDANCE = 0.0
 
 # Again special handling: Negative temperatures will result in
 # a buffer overflow we do handle this if temperature values
-# are retruned above 65000 which is about - 53,6 degree celsius
+# are returned above 65000 which is about - 53,6 degree celsius
 MINUS_TEMPERATURE_OFFSET = 65000
 
 
